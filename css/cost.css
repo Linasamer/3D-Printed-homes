@@ -1,0 +1,46 @@
+.hide-bullets {
+list-style:none;
+margin-left: -40px;
+margin-top:20px;
+}
+
+
+
+h1 { font-size: 30px;
+	font-style: bold;
+    margin: 5%;
+    color: red;
+
+
+}
+
+
+.
+.container {
+    padding-right: 500px;
+    padding-left: 250px;
+    margin-right: auto;
+    margin-left: auto;
+	  }
+
+
+p { margin: 5%;
+	font-size: 25px;
+
+
+
+}
+ h2{font-size: 50px;
+     margin: 5%;
+    color: red;
+  
+
+ }
+
+.row {
+    margin-right: 250px;
+    margin-left: 1px;
+}
+
+
+

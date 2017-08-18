@@ -1,0 +1,31 @@
+h1 {font-style: bold;
+	color:red;
+    margin: 5%;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+p{ margin: 5%;
+	color:black;
+   font-family: arial;
+   font-size:30px;
+   text-align: center:
+   ;}
+#myCarousel { width: 900px;
+}
+
+#video{
+	margin-left: 20%
+  
+
+}
+
+#us { margin: 5%;
+      background-color: black;
+      font-style: bold;
+      font-size: 35px;
+      color: white;
+      text-align: center;;
+
+
+}
